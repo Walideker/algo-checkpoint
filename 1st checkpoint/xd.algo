@@ -1,0 +1,6 @@
+ALGORITHM read-a-senten
+VAR
+    txt1="my bad coach .Im doing my best"
+BEGIN
+    read(txt1)
+END
